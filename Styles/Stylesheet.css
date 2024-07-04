@@ -5,7 +5,7 @@
 }
 
 .banner {
-    height: 100vh;
+    height: 98.5vh;
     width: 100%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.812), rgba(0, 0, 0, 0.669)), 
                       url("https://images.unsplash.com/photo-1583121274602-3e2820c69888?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
